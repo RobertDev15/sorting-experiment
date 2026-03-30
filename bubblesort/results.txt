@@ -1,0 +1,18 @@
+test 1 time:  0.0003352165222167969  50 elements
+test 2 time:  11.055989027023315  10000 elements
+
+-------------------------------------------------
+2nd attempt
+test 1 time:  0.0005955696105957031  50 elements
+test 2 time:  10.793944597244263  10000 elements
+
+------------------------------------------------
+code correct
+test 1 time:  0.00015282630920410156  50 elements
+test 2 time:  6.736933469772339  10000 elements
+
+-------------------------------------------------
+test 1 time:  0.0001220703125  50 elements
+test 2 time:  6.479065656661987  10000 elements
+test 4 time:  4.826324701309204  mostly sorted
+test 5 time:  7.5815839767456055  reverse sorted

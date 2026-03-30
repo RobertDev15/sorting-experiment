@@ -1,0 +1,4 @@
+test 1 time:  0.0001239776611328125  50 elements
+test 2 time:  3.3207333087921143  10000 elements
+test 4 time:  3.379725456237793 mostly sorted
+test 5 time:  3.3357315063476562  reverse sorted
