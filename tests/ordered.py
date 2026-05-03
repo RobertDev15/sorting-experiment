@@ -30,7 +30,6 @@ elif mode == "none":
 else:
     print("Invalid mode. No changes applied.")
 
-# Write the output in UTF-8 (compatible with your bubble-sort script)
 with open("length5c1.txt", "w") as f:
     f.write(str(n) + "\n")
     f.write(" ".join(str(i) for i in a))
